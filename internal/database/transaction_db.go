@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/CelsoTaliatelli/wallet-consumer/internal/entity"
+	"github.com/CelsoTaliatelli/ms-walletconsumer/internal/entity"
 )
 
 type TransactionDB struct {

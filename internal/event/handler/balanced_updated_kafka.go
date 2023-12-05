@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/CelsoTaliatelli/wallet-consumer/pkg/events"
-	"github.com/CelsoTaliatelli/wallet-consumer/pkg/kafka"
+	"github.com/CelsoTaliatelli/ms-walletconsumer/pkg/events"
+	"github.com/CelsoTaliatelli/ms-walletconsumer/pkg/kafka"
 )
 
 type UpdateBalanceKafkaHandler struct {

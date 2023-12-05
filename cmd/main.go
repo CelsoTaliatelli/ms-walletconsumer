@@ -5,8 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/CelsoTaliatelli/wallet-consumer/internal/entity/transaction"
-
+	"github.com/CelsoTaliatelli/ms-walletconsumer/internal/entity/transaction"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	_ "github.com/go-sql-driver/mysql"
 )

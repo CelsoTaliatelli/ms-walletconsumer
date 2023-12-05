@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/CelsoTaliatelli/wallet-consumer/internal/usecase/create_transaction"
+	"github.com/CelsoTaliatelli/ms-walletconsumer/internal/usecase/create_transaction"
 )
 
 type WebAccountHandler struct {

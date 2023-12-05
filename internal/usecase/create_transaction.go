@@ -1,9 +1,9 @@
 package create_transaction
 
 import (
-	"github.com/CelsoTaliatelli/wallet-consumer/internal/database/transaction_db"
-	"github.com/CelsoTaliatelli/wallet-consumer/internal/entity"
-	"github.com/CelsoTaliatelli/wallet-consumer/pkg/events"
+	"github.com/CelsoTaliatelli/ms-walletconsumer/internal/database/transaction_db"
+	"github.com/CelsoTaliatelli/ms-walletconsumer/internal/entity"
+	"github.com/CelsoTaliatelli/ms-walletconsumer/pkg/events"
 )
 
 type CreateTransactionInputDTO struct {
